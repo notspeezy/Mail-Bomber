@@ -1,0 +1,5 @@
+{
+    "proxy": false,
+    "amount": 1000,
+    "threads": 50
+}
