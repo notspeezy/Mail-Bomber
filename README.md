@@ -5,6 +5,12 @@ Simple mail bomber written in py
 - Config the "config.json" file
 - Provide your proxies (optional)
 - Run main.py
+## Todo
+- [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
+- [x] Multithreaded
+- [x] Amount of mails to send
+- [ ] Send to multiples mails
+- [ ] Multiples apis
 ## Info
 - These mails might be redirected as spams for gmail, outlook and other big companies
 ## Contact
